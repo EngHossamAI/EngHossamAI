@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=hossam-waleed&fontSize=42&fontColor=00FF9C&fontAlignY=45&desc=%3C%20AI%20Systems%20Engineer%20—%20Model%20Card%20%3E&descAlignY=62&descSize=16&descColor=8892B0&animation=fadeIn" width="100%"/>
+# `> hossam-waleed`
+### AI Systems Engineer — Model Card
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=900&color=00FF9C&center=true&vCenter=true&width=700&lines=%3E+initializing+model...;%3E+loading+weights%3A+python%2C+git%2C+pytest...;%3E+status%3A+training_in_progress;%3E+ready+for+deployment%3A+false" alt="Typing SVG" />
+![Status](https://img.shields.io/badge/status-training__in__progress-00FF9C?style=for-the-badge&labelColor=0F2027)
+![Version](https://img.shields.io/badge/version-0.4.0--beta-8892B0?style=for-the-badge&labelColor=0F2027)
+![License](https://img.shields.io/badge/license-open--to--remote-8892B0?style=for-the-badge&labelColor=0F2027)
 
 </div>
 
@@ -116,7 +119,7 @@ model_card:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+---
 
 `// end of model card — thanks for reading the docs 🤝`
 
